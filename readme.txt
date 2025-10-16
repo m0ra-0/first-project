@@ -1,1 +1,1 @@
-"Training project for work with Git."
+"Training project for work with Git.."
